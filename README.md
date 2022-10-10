@@ -1,20 +1,19 @@
-## Hi! I'm Daniel Wilczak 👋
-Current work: EasyControls, EasyGA
+## Hi! I'm Jacob R. Romeo 👋
+Current work: EasyControls, EasyDrift, ALMA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielwilczak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-romeo-ce-301124191/)
 
 <br>
 
-👋 I am a Embry Riddle University Senior majoring in both computer science and computational math.
+👋 I am a Embry Riddle University Junior majoring in Astronomy and Astrophysics with a Computer Science minor.
 <br>
 📍I am currently living in Daytona Beach, FL.
 <br>
-👩‍🏫 Currently going through interviews with multiple companies to find the right place. Graduation - 12/2022
+👩‍🏫 Currently working on multiple research projects and applying for post-graduate programs, graduating in 2024. 
 <br>
-💻 I’m interested in solving challenging problems and building things that help make complex problems easy.
+💻 I’m interested in solving challenging problems and reseraching the unknown. 
 <br> 
-🧨 Fun Fact: I love 3D printing, making my own curcuit boards and learning how to use CNC machines.
-
+🧨 Fun Fact: I love physics and solve problems for fun; also love making PCBs and coding in python. 
 
 ### Languages & Tools
 
