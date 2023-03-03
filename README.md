@@ -1,5 +1,5 @@
 ## Hi! I'm Jacob R. Romeo 👋
-Current work: EasyControls, EasyDrift, ALMA
+Current work: roAp classification, EasyControls, EasyDrift, ALMA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-romeo-ce-301124191/)
 
