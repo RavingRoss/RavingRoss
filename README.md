@@ -5,15 +5,15 @@ Current work: roAp classification, EasyControls, EasyDrift, ALMA
 
 <br>
 
-👋 I am a Embry Riddle University Junior majoring in Astronomy and Astrophysics with a Computer Science minor.
+👋 I am a Embry Riddle University Senior majoring in Astronomy and Astrophysics with a Computer Science minor.
 <br>
 📍I am currently living in Daytona Beach, FL.
 <br>
-👩‍🏫 Currently working on multiple research projects and applying for post-graduate programs, graduating in 2024. 
+👩‍🏫 Currently working on multiple research projects and applying for post-graduate programs, graduating in Spring 2024. 
 <br>
 💻 I’m interested in solving challenging problems and reseraching the unknown. 
 <br> 
-🧨 Fun Fact: I love physics and solve problems for fun; also love making PCBs and coding in python. 
+🧨 Fun Fact: I love physics and solve problems for fun; also love making PCBs and coding. 
 
 ### Languages & Tools
 
