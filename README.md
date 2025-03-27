@@ -1,19 +1,19 @@
 ## Hi! I'm Jacob R. Romeo 👋
-Current work: roAp classification, EasyControls, EasyDrift, ALMA
+Current work: Belle II testbench and roAp classification
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-romeo-ce-301124191/)
 
 <br>
 
-👋 I am a Embry Riddle University Senior majoring in Astronomy and Astrophysics with a Computer Science minor.
+👋 I am working on my PhD in Physics and Astronomy at University of Hawaii at Manoa. I got my B.S. in Astronomy and Astrophysics with a Computer Science and Applied Mathematics minor from ERAU.
 <br>
-📍I am currently living in Daytona Beach, FL.
+📍I am currently living in Honolulu, HI.
 <br>
-👩‍🏫 Currently working on multiple research projects and applying for post-graduate programs, graduating in Spring 2024. 
+👩‍🏫 Currently taking classes, working on multiple research projects, and teaching physics.
 <br>
 💻 I’m interested in solving challenging problems and reseraching the unknown. 
 <br> 
-🧨 Fun Fact: I love physics and solve problems for fun; also love making PCBs and coding. 
+💪 Fun Fact: I love surfing, skiing, hiking, and rock climbing!!
 
 ### Languages & Tools
 
